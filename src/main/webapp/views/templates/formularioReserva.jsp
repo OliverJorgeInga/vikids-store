@@ -7,7 +7,7 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
-<div class="bg-dark">
+<div class="bg-dark d-none formulario-container">
     <div class="formulario_reserva">
         <h4>REALIZA TU PEDIDO - PAGA AL RECIBIR</h4>
 

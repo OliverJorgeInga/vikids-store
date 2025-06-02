@@ -76,5 +76,7 @@
     </div>
 </footer>
 </div>
+
+<script src="assets/js/formulario.js"></script>
 </body>
 </html>
