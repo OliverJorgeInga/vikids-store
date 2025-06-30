@@ -9,7 +9,10 @@
 
 <div class="bg-dark d-none formulario-container">
     <div class="formulario_reserva">
-        <h4>REALIZA TU PEDIDO - PAGA AL RECIBIR</h4>
+        <div class="formulario__header">
+            <h4>REALIZA TU PEDIDO - PAGA AL RECIBIR</h4>
+            <div class="closeForm"><i class="fa-solid fa-xmark"></i></div>
+        </div>
 
         <div class="reserva__productos">
             <div class="table__contenido">

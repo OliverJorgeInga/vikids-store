@@ -10,6 +10,7 @@
 </div>
 
 <%@ include file="/views/templates/formularioReserva.jsp" %>
+<%@ include file="/views/templates/menuBar.jsp" %>
 
 
 <main>
